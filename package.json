@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "spec-md": "^3.1.0"
+  },
+  "scripts": {
+    "build": "mkdir -p dist; spec-md index.md > dist/index.html"
+  }
+}
