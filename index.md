@@ -9,3 +9,5 @@ This is commit we will also tag `v0.0.1`.
 ## Cool property
 
 We are writing about a cool property here.
+This property has a lot of features.
+We can talk about it for ages.
