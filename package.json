@@ -3,6 +3,6 @@
     "spec-md": "^3.1.0"
   },
   "scripts": {
-    "build": "mkdir -p custom-dir; spec-md index.md > custom-dir/index.html"
+    "build": "mkdir -p abc; spec-md index.md > abc/index.html"
   }
 }
