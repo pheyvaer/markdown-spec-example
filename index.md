@@ -1,8 +1,8 @@
 # My Markdown-based spec
 
-This version: <{{ORCHESTRATOR_CURRENT_BUILD_LINK}}> 
+This version: <a href="_ORCHESTRATOR_CURRENT_BUILD_LINK_">\_ORCHESTRATOR\_CURRENT\_BUILD\_LINK\_</a>
 
-Previous version: <{{ORCHESTRATOR_PREVIOUS_BUILD_LINK}}>
+Previous version: <a href="_ORCHESTRATOR_PREVIOUS_BUILD_LINK_">\_ORCHESTRATOR\_PREVIOUS\_BUILD\_LINK\_</a>
 
 This is my beautiful spec written in Markdown using `spec-md`.
 
